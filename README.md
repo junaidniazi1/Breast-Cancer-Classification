@@ -24,4 +24,3 @@ This project uses an **Artificial Neural Network (ANN)** to classify breast canc
 
 ---
 
-👉 Do you want me to also **insert your actual video file name** (e.g., `breast_cancer_demo.mp4`) instead of `[Video Link or Path Here]`?
